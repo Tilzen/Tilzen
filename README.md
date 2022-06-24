@@ -1,18 +1,8 @@
-### Hello there 👋
-
-<!--![](https://wakatime.com/share/@6f1cda76-02a0-4b21-a001-b8d20755f265/43678e66-54da-4e72-a53a-260fc1349903.svg?raw=true)-->
-
-<!--
-**Tilzen/Tilzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello there 👋
+<div align="center">
+  <a href="https://github.com/Tilzen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tilzen&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilzen&exclude_repo=cpf-status-api,blackcodebrasil.github.io&layout=compact&langs_count=15&theme=radical"/>
+  </a>
+</div>
+ 
