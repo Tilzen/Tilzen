@@ -8,14 +8,12 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Tilzen&theme=gotham&hide_border=true&area=true)
 
+##
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tilzen&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<!--START_SECTION:waka-->
+##
 
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[![Tilzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tilzen&hide_border=true&langs_count=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
