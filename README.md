@@ -17,4 +17,4 @@
 
 ##
 
-[![Tilzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tilzen&hide_border=true&langs_count=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Tilzen)
+[![Tilzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tilzen&hide_border=true&langs_count=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Tilzen#)
