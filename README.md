@@ -5,6 +5,7 @@
   <img width="41%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tilzen&layout=compact&https://github-readme-stats.vercel.app/api/top-langs/?username=Tilzen&hide_border=true&exclude_repo=cpf-status-api,blackcodebrasil.github.io&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=15" />
 </div>
 
+##
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Tilzen&theme=gotham&hide_border=true&area=true)
 
@@ -16,4 +17,4 @@
 
 ##
 
-[![Tilzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tilzen&hide_border=true&langs_count=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Tilzen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tilzen&hide_border=true&langs_count=10&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Tilzen)
