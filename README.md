@@ -7,7 +7,7 @@
 
 ##
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Tilzen&theme=gotham&hide_border=true&area=true)
+[![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Tilzen&theme=gotham&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
